@@ -1,0 +1,14 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "hzhuhao",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
